@@ -1,0 +1,30 @@
+{{{
+  "slug": "international-currency-support",
+  "title": "International Currency Support",
+  "tags": ["International", "Exchange", "Currency", "Rate"],
+  "date": "12-22-2015",
+  "author": "Christian Brown"
+}}}
+
+CenturyLink Cloud, a leading global services provider, give corporate billed customers the option to choose billed currency while credit card billed customers are billed in US Dollars can use their credit card company to convert the US Dollar based charge into the currency of their choice.  
+
+Corporate Billed Customers: CenturyLink Cloud corporate invoiced customers can select from the following currencies based on the registered address of their business:
+ 
+*	Australian Dollar (AUD)
+*	Brazilian Real (BRL)
+*	British Pounds (GBP)
+*	Canadian Dollars (CAD)
+*	Chinese Renminbi (CNY)
+*	Euro (EUR)
+*	Hong Kong Dollar (HKD)
+*	Indian Rupee (INR)
+*	Japanese Yen (JPY)
+*	New Taiwan Dollar (NTD)
+*	Singapore Dollars (SGD)
+*	South Korean Won (KRW)
+*	US Dollar (USD)
+ 
+Non-US Dollar based currencies use the daily exchange rate at the time the bill is computed from [OANDA](http://www.oanda.com). 
+
+Credit Card Billed Customers:
+Customers who provide payment for CenturyLink Cloud via Credit Cards which use other currencies besides US Dollars, with be converted per their credit card company where additional fees may apply. 
